@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CleiberGarcia
 - 👀 I’m interested in machine learning, blockchain tecnologies and web development
-- 🌱 I’m currently learning TensorFlow and Node.js
+- 🌱 I’m currently learning TensorFlow 
 - 💞️ I’m looking to collaborate on projects related to machine learning and/or blockchain technologies
 - 📫 You can e-mail me at cleiber.negocios@gmail.com
 
